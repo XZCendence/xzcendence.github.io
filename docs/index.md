@@ -5,4 +5,6 @@
 layout: home
 ---
 
-The Jekyll page is likely 404'ing every time because
+this is the docs dir, congrats you found it
+
+there is nothing here yet but there might be something in the future
