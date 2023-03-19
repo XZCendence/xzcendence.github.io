@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+The Jekyll page is likely 404'ing every time because
