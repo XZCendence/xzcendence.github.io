@@ -1,2 +1,1 @@
-
-Hello
+hi, my site is still under construction, but you can check out my [github](https://github.com/xzcendence) in the meantime
